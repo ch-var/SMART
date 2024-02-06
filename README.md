@@ -11,7 +11,7 @@ To learn how to run **SMART** and for a helpful user guide, please read the manu
 Having issues?
 =============
 
-If you are experiencing problems using **SMART**, do not hesitate to write a mail at Ch.Varnava@external.euc.ac.cy . 
+If you are experiencing problems using **SMART**, do not hesitate to write a mail at varnava.haris@gmail.com . 
 
 License
 =======
