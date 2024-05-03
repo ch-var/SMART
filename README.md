@@ -24,7 +24,7 @@ If you find this tool useful in your research, please cite [Varnava & Efstathiou
     @article{10.1093/mnras/stae1141,
         author = {Varnava, Charalambia and Efstathiou, Andreas},
         title = {SMART: Spectral energy distributions Markov chain Analysis with Radiative Transfer models},
-        journal = {MNRAS},
+        journal = {/mnras},
         pages = {stae1141},
         year = 2024,
         month = {04},
