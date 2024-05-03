@@ -16,8 +16,7 @@ If you are experiencing problems using **SMART**, do not hesitate to write a mai
 Attribution
 =============
 
-If you find this tool useful in your research, please cite [Varnava & Efstathiou (2024)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585). The BibTeX entry for the paper is:
-![screenshot](cite.png)
+If you find this tool useful in your research, please cite [Varnava & Efstathiou (2024)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585).
 
 
 License
