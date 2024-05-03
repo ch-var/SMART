@@ -20,7 +20,7 @@ Attribution
 =============
 
 If you find this tool useful in your research, please cite `Varnava & Efstathiou (2024)
-<[https://arxiv.org/abs/1202.3665](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585)>`. The BibTeX entry for the paper is:
+<[https://arxiv.org/abs/1202.3665](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585)>`_. The BibTeX entry for the paper is:
 
     @article{10.1093/mnras/stae1141,
         author = {Varnava, Charalambia and Efstathiou, Andreas},
