@@ -31,7 +31,7 @@ If you find this tool useful in your research, please cite [Varnava & Efstathiou
         issn = {0035-8711},
         doi = {10.1093/mnras/stae1141},
         url = {https://doi.org/10.1093/mnras/stae1141},
-        eprint = {[1202.3665](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae1141/57364876/stae1141.pdf)},
+        eprint = {https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae1141/57364876/stae1141.pdf},
     }
 
 
