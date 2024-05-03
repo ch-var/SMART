@@ -20,16 +20,19 @@ Attribution
 =============
 
 If you find this tool useful in your research, please cite `Varnava & Efstathiou (2024)
-<[https://arxiv.org/abs/1202.3665](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585)>`_ if you find this code useful in your
-research. The BibTeX entry for the paper is::
+<[https://arxiv.org/abs/1202.3665](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585)>`. The BibTeX entry for the paper is:
 
     @article{10.1093/mnras/stae1141,
-       author = {Varnava, Charalambia and Efstathiou, Andreas},
+        author = {Varnava, Charalambia and Efstathiou, Andreas},
         title = {SMART: Spectral energy distributions Markov chain Analysis with Radiative Transfer models},
-      journal = {MNRAS},
-         year = 2024,
-       eprint = {[1202.3665](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae1141/57364876/stae1141.pdf)},
-          doi = {10.1093/mnras/stae1141}
+        journal = {MNRAS},
+        pages = {stae1141},
+        year = 2024,
+        month = {04},
+        issn = {0035-8711},
+        doi = {10.1093/mnras/stae1141},
+        url = {https://doi.org/10.1093/mnras/stae1141},
+        eprint = {[1202.3665](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae1141/57364876/stae1141.pdf)},
     }
 
 
