@@ -20,6 +20,20 @@ Attribution
 =============
 
 If you find this tool useful in your research, please cite [Varnava & Efstathiou (2024)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585).
+cff-version: 1.2.0
+message: "If you find this tool useful in your research, please cite it as below."
+authors:
+- family-names: "Varnava"
+  given-names: "Charalambia"
+  orcid: "https://https://orcid.org/0009-0004-6200-0919"
+- family-names: "Efstathiou"
+  given-names: "Andreas"
+  orcid: "https://orcid.org/0000-0002-2612-4840"
+title: "SMART: Spectral energy distributions Markov chain Analysis with Radiative Transfer models"
+version: 1.0.0
+doi: 10.1093/mnras/stae1141
+date-released: 2024-04-30
+url: "https://github.com/ch-var/SMART"
 
 
 License
