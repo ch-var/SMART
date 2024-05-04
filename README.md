@@ -11,7 +11,8 @@ SMART
 
 ![contact](http://img.shields.io/badge/contact-varnava.haris@gmail.com-orange.svg?style=flat)
 
-[![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ch-var/SMART/commit/9f877d4bbc3bb86bf1cdcdaa2cc5f28cdf8e2bf0)
+[![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ch-var/SMART?tab=MIT-1-ov-file)
+
 
 Documentation
 =============
