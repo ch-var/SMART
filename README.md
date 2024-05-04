@@ -9,7 +9,7 @@ SMART
 
 [![manual](http://img.shields.io/badge/guidelines-manual-blue.svg?style=flat)](https://github.com/ch-var/SMART/commit/f8f7c03e5e77572f480abdd37f277920fe42b5c0)
 
-[![contact](http://img.shields.io/badge/issues-contact-orange.svg?style=flat)](varnava.haris@gmail.com)
+![contact](http://img.shields.io/badge/contact-varnava.haris@gmail.com-orange.svg?style=flat)
 
 [![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ch-var/SMART/commit/9f877d4bbc3bb86bf1cdcdaa2cc5f28cdf8e2bf0)
 
