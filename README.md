@@ -50,4 +50,4 @@ License
 
 Copyright 2024 Charalambia Varnava and contributors
 
-**SMART** is a free tool made available under the MIT License. For details see the LICENSE file.
+**SMART** is a free tool made available under the terms of the MIT License. For details see the LICENSE file.
