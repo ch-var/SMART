@@ -17,7 +17,7 @@ SMART
 Documentation
 =============
 
-To learn how to run **SMART** and for a helpful user guide, please read the manual [here](https://github.com/ch-var/SMART/commit/f8f7c03e5e77572f480abdd37f277920fe42b5c0).
+To learn how to run **SMART** and for a helpful user guide, please download the manual from [here](https://github.com/ch-var/SMART/commit/f8f7c03e5e77572f480abdd37f277920fe42b5c0).
 
 
 Having issues?
