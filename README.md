@@ -11,7 +11,7 @@ SMART
 
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/LICENSE)
 
-![contact](http://img.shields.io/badge/contact-varnava.haris@gmail.com-lightyellow.svg?style=flat)
+[![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=grey&logo=gmail&logoColor=white)](mailto:varnava.haris@gmail.com) 
 
 
 Documentation
@@ -19,7 +19,7 @@ Documentation
 
 To learn how to run **SMART** and for a helpful user guide, please read the manual [here](https://github.com/ch-var/SMART/commit/f8f7c03e5e77572f480abdd37f277920fe42b5c0).
 
-
+![contact](http://img.shields.io/badge/contact-varnava.haris@gmail.com-lightyellow.svg?style=flat)
 Having issues?
 =============
 
