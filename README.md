@@ -5,6 +5,8 @@ SMART
 
 [![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?style=flat)](https://github.com/ch-var/SMART)
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/cicirello/jacoco-badge-generator?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART)
+
 [![cite](https://img.shields.io/badge/doi-10.1093/mnras/stae1141-light.svg?style=flat)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585)
 
 [![manual](http://img.shields.io/badge/guidelines-manual-purple.svg?style=flat)](https://github.com/ch-var/SMART/commit/f8f7c03e5e77572f480abdd37f277920fe42b5c0)
