@@ -17,7 +17,7 @@ SMART
 Documentation
 =============
 
-To learn how to run **SMART** and for a helpful user guide, please download the manual from [here](https://github.com/ch-var/SMART/blob/main/SMART_User_Manual.pdf).
+To learn how to run **SMART** and for a helpful user guide, please read the manual [here](https://github.com/ch-var/SMART/blob/main/SMART_User_Manual.pdf).
 
 
 Having issues?
