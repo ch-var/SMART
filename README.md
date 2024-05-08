@@ -26,6 +26,12 @@ Having issues?
 If you are experiencing problems using **SMART**, do not hesitate to write a mail at varnava.haris@gmail.com. 
 
 
+Presentation
+=============
+
+To learn more about **SMART**, please find a useful presentation [here](https://github.com/ch-var/SMART/blob/main/Presentation_GitHub.pdf).
+
+
 Attribution
 =============
 
