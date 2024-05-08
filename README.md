@@ -26,12 +26,6 @@ Having issues?
 If you are experiencing problems using **SMART**, do not hesitate to write a mail at varnava.haris@gmail.com. 
 
 
-Presentation
-=============
-
-To learn more about **SMART**, please find a useful presentation [here](https://github.com/ch-var/SMART/blob/main/Presentation_GitHub.pdf).
-
-
 Attribution
 =============
 
@@ -49,6 +43,12 @@ If you find this tool useful in your research, please cite [Varnava & Efstathiou
         url = {https://doi.org/10.1093/mnras/stae1141},
         eprint = {https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae1141/57364876/stae1141.pdf},
     }
+
+
+Presentation
+=============
+
+To learn more about **SMART**, please find a useful presentation [here](https://github.com/ch-var/SMART/blob/main/Presentation_GitHub.pdf).
 
 
 License
