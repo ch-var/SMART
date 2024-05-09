@@ -7,7 +7,7 @@ SMART
 
 [![cite](https://img.shields.io/badge/doi-10.1093/mnras/stae1141-light.svg?style=flat)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585)
 
-[![manual](http://img.shields.io/badge/guidelines-manual-purple.svg?style=flat)](https://github.com/ch-var/SMART/commit/f8f7c03e5e77572f480abdd37f277920fe42b5c0)
+[![manual](http://img.shields.io/badge/guidelines-manual-purple.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/SMART_User_Manual.pdf)
 
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/LICENSE)
 
