@@ -31,18 +31,17 @@ Attribution
 
 If you find this tool useful in your research, please cite [Varnava & Efstathiou (2024)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585). The BibTeX entry for the paper is:
 
-    @article{10.1093/mnras/stae1141,
-        author = {Varnava, Charalambia and Efstathiou, Andreas},
-        title = {SMART: Spectral energy distributions Markov chain Analysis with Radiative Transfer models},
-        journal = {/mnras},
-        pages = {stae1141},
-        year = 2024,
-        month = {04},
-        issn = {0035-8711},
-        doi = {10.1093/mnras/stae1141},
-        url = {https://doi.org/10.1093/mnras/stae1141},
-        eprint = {https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae1141/57364876/stae1141.pdf},
-    }
+@ARTICLE{2024MNRAS.tmp.1161V,
+       author = {{Varnava}, Charalambia and {Efstathiou}, Andreas},
+        title = "{SMART: Spectral energy distributions Markov chain Analysis with Radiative Transfer models}",
+      journal = {\mnras},
+     keywords = {radiative transfer, galaxies: active, galaxies: interactions, quasars: general, infrared: galaxies, submillimetre: galaxies},
+         year = 2024,
+        month = apr,
+          doi = {10.1093/mnras/stae1141},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.1161V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
 
 
 Presentation
