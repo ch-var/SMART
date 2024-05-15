@@ -25,7 +25,7 @@ To learn how to run **SMART** and for a helpful user guide, please read the [man
 Having issues?
 =============
 
-If you are experiencing any problems using **SMART**, do not hesitate to contact us at varnava.haris@gmail.com or a.Efstathiou@euc.ac.cy. 
+If you are experiencing any problems using **SMART**, do not hesitate to contact us at varnava.haris@gmail.com or a.efstathiou@euc.ac.cy. 
 
 
 Attribution
