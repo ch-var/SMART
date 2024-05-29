@@ -42,9 +42,7 @@ If you find this tool useful in your research, please cite [Varnava & Efstathiou
          keywords = {radiative transfer, galaxies: active, galaxies: interactions, quasars: general, infrared: galaxies, submillimetre: galaxies},
              year = 2024,
             month = apr,
-              doi = {10.1093/mnras/stae1141},
-           adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.1161V},
-          adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+              doi = {10.1093/mnras/stae1141}
     }
 
 
