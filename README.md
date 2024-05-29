@@ -4,7 +4,14 @@
 
 To start using **SMART**, please download the folder [SMART_v1.0.7z](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) and extract its contents.
 
+<br>
+<br>
+
+
 <p align="center"> <img src="SMART_MNRAS.png" /> </p>
+
+<br>
+<br>
 
 [![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART)
 
@@ -14,21 +21,24 @@ To start using **SMART**, please download the folder [SMART_v1.0.7z](https://git
 
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/LICENSE)
 
-[![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) 
-[![Mail Badge](https://img.shields.io/badge/-a.efstathiou@euc.ac.cy-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:a.efstathiou@euc.ac.cy) 
+[![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) &thinsp; 
+ [![Mail Badge](https://img.shields.io/badge/-a.efstathiou@euc.ac.cy-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:a.efstathiou@euc.ac.cy) 
 
+<br>
 
 Documentation
 =============
 
 To learn how to run **SMART** and for a helpful user guide, please read the [manual](https://github.com/ch-var/SMART/blob/main/SMART_User_Manual.pdf).
 
+<br> 
 
 Having issues?
 =============
 
 If you are experiencing any problems using **SMART**, do not hesitate to contact us at varnava.haris@gmail.com or a.efstathiou@euc.ac.cy. 
 
+<br>
 
 Attribution
 =============
@@ -45,12 +55,14 @@ If you find this tool useful in your research, please cite [Varnava & Efstathiou
               doi = {10.1093/mnras/stae1141}
     }
 
+<br>
 
 Presentation
 =============
 
 To learn more about **SMART**, please read a useful [presentation](https://github.com/ch-var/SMART/blob/main/Presentation_GitHub.pdf).
 
+<br>
 
 License
 =======
