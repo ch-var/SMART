@@ -6,11 +6,11 @@
 
 To start using **SMART**, please download the folder
 
-[SMART_v1.0_windows.7z](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_windows.7z) &thinsp; for &thinsp; ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)(https://github.com/ch-var/SMART/blob/main/SMART_v1.0_windows.7z)
+[SMART_v1.0_windows.7z](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_windows.7z) &thinsp; for &thinsp; [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_windows.7z)
 
 or
 
-[SMART_v1.0_mac.7z](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z) &thinsp; for &thinsp; ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)(https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z)
+[SMART_v1.0_mac.7z](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z) &thinsp; for &thinsp; [![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z)
 
 <br>
 
