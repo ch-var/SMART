@@ -61,9 +61,10 @@ If you find this tool useful in your research, please cite [Varnava & Efstathiou
            author = {{Varnava}, Charalambia and {Efstathiou}, Andreas},
             title = "{SMART: Spectral energy distributions Markov chain Analysis with Radiative Transfer models}",
           journal = {\mnras},
-         keywords = {radiative transfer, galaxies: active, galaxies: interactions, quasars: general, infrared: galaxies, submillimetre: galaxies},
              year = 2024,
-            month = apr,
+           volume = 531,
+            pages = {2304–2329},
+           eprint = {2405.18130},
               doi = {10.1093/mnras/stae1141}
     }
 
