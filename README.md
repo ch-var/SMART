@@ -1,12 +1,12 @@
 <p align="center"> <img src="SMART_logo.jpg" width="300" height="300" /> </p>
 
-**SMART** (**S**pectral energy distributions **M**arkov chain **A**nalysis with **R**adiative **T**ransfer models) is a publicly available open-source spectral energy distribution (SED) fitting code. Implementing a Bayesian Markov chain Monte Carlo (MCMC) method, **SMART** fits the ultraviolet to millimetre SEDs of galaxies exclusively with radiative transfer models that currently constitute four types of pre-computed libraries, which describe the starburst, active galactic nucleus (AGN) torus, host galaxy and polar dust components. **SMART** promises to be a useful tool for studying galaxy evolution in the _JWST_ era. The code is developed in PYTHON.
+**SMART** (**S**pectral energy distributions **M**arkov chain **A**nalysis with **R**adiative **T**ransfer models) is a publicly available open-source spectral energy distribution (SED) fitting code. Implementing a Bayesian Markov chain Monte Carlo (MCMC) method, **SMART** fits the ultraviolet to millimetre SEDs of galaxies exclusively with radiative transfer models that currently constitute four types of pre-computed libraries, which describe the starburst, active galactic nucleus (AGN) torus, host galaxy and polar dust components. **SMART** promises to be a useful tool for studying galaxy evolution in the _JWST_ era. The code is developed in **PYTHON 3.10** (Anaconda package).
 
 <br>
 
 To start using **SMART**, please download the folder
 
-[SMART_v1.0_windows.7z](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_windows.7z) &thinsp; for &thinsp; [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_windows.7z)
+[SMART_v1.0.7z](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; for &thinsp; [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; and &thinsp; [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z)
 
 or
 
