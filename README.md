@@ -4,15 +4,9 @@
 
 <br>
 
-To start using **SMART**, please download the folder for
+To start using **SMART**, please download the folder and extract its contents.
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) 
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z)
-
-[![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z) 
-
-and extract its contents.
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; [![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z) 
 
 <br>
 <br>
