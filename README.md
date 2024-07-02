@@ -21,7 +21,7 @@ To start using **SMART**, please download the folder and extract its contents.
 
 [![cite](https://img.shields.io/badge/doi-10.1093/mnras/stae1141-light.svg?style=flat)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585)
 
-<a href="https://ascl.net/2406.003"><img src="https://img.shields.io/badge/ascl-2406.003-blue.svg?colorB=262255" alt="ascl:2406.003" /></a>
+[![ascl](http://img.shields.io/badge/ascl-2406.003-white.svg?style=flat)](https://ascl.net/2406.003)
 
 [![manual](http://img.shields.io/badge/guidelines-manual-purple.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/SMART_User_Manual.pdf)
 
