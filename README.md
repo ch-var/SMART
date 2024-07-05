@@ -23,7 +23,7 @@ To start using **SMART**, please download the folder and extract its contents.
 
 [![ascl](http://img.shields.io/badge/ascl-2406.003-lightgrey.svg?style=flat)](https://ascl.net/2406.003)
 
-[![manual](http://img.shields.io/badge/guidelines-manual-purple.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/SMART_User_Manual.pdf)
+[![manual](http://img.shields.io/badge/guidelines-manual-purple.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/assets/SMART_User_Manual.pdf)
 
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/LICENSE)
 
@@ -35,7 +35,7 @@ To start using **SMART**, please download the folder and extract its contents.
 Documentation
 =============
 
-To learn how to run **SMART** and for a helpful user guide, please read the [manual](https://github.com/ch-var/SMART/blob/main/SMART_User_Manual.pdf).
+To learn how to run **SMART** and for a helpful user guide, please read the [manual](https://github.com/ch-var/SMART/blob/main/assets/SMART_User_Manual.pdf).
 
 <br> 
 
