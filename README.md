@@ -67,7 +67,7 @@ If you find this tool useful in your research, please cite [Varnava & Efstathiou
 Presentation
 =============
 
-To learn more about **SMART**, please read a useful [presentation](https://github.com/ch-var/SMART/blob/main/Presentation_GitHub.pdf).
+To learn more about **SMART**, please read a useful [presentation](https://github.com/ch-var/SMART/blob/main/assets/Presentation_GitHub.pdf).
 
 <br>
 
