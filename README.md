@@ -12,7 +12,7 @@ To start using **SMART**, please download the folder and extract its contents.
 <br>
 
 
-<p align="center"> <img src="SMART_MNRAS.png" /> </p>
+<p align="center"> <img src="assets/SMART_MNRAS.png" /> </p>
 
 <br>
 <br>
