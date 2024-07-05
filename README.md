@@ -1,4 +1,4 @@
-<p align="center"> <img src="SMART_logo.png" width="300" height="300" /> </p>
+<p align="center"> <img src="assets/SMART_logo.png" width="300" height="300" /> </p>
 
 **SMART** (**S**pectral energy distributions **M**arkov chain **A**nalysis with **R**adiative **T**ransfer models) is a publicly available open-source spectral energy distribution (SED) fitting code. Implementing a Bayesian Markov chain Monte Carlo (MCMC) method, **SMART** fits the ultraviolet to millimetre SEDs of galaxies exclusively with radiative transfer models that currently constitute four types of pre-computed libraries, which describe the starburst, active galactic nucleus (AGN) torus, host galaxy and polar dust components. **SMART** promises to be a useful tool for studying galaxy evolution in the _JWST_ era. The code is developed in **PYTHON 3.10** (Anaconda package).
 
