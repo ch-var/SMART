@@ -1,10 +1,8 @@
 <p align="center"> <img src="assets/SMART_logo.png" width="300" height="300" /> </p>
 
-**SMART** (**S**pectral energy distributions **M**arkov chain **A**nalysis with **R**adiative **T**ransfer models) is a publicly available open-source spectral energy distribution (SED) fitting code. Implementing a Bayesian Markov chain Monte Carlo (MCMC) method, **SMART** fits the ultraviolet to millimetre SEDs of galaxies exclusively with radiative transfer models that currently constitute four types of pre-computed libraries, which describe the starburst, active galactic nucleus (AGN) torus, host galaxy and polar dust components. **SMART** promises to be a useful tool for studying galaxy evolution in the _JWST_ era. The code is developed in **PYTHON 3.10** (Anaconda package).
+<p align='justify'> <b>SMART</b> (<b>S</b>pectral energy distributions <b>M</b>arkov chain <b>A</b>nalysis with <b>R</b>adiative <b>T</b>ransfer models) is a publicly available open-source spectral energy distribution (SED) fitting code. Implementing a Bayesian Markov chain Monte Carlo (MCMC) method, <b>SMART</b> fits the ultraviolet to millimetre SEDs of galaxies exclusively with radiative transfer models that currently constitute four types of pre-computed libraries, which describe the starburst, active galactic nucleus (AGN) torus, host galaxy and polar dust components. <b>SMART</b> promises to be a useful tool for studying galaxy evolution in the <i>JWST</i> era. The code is developed in <b>PYTHON 3.10</b> (Anaconda package). </p>
 
-<br>
-
-To start using **SMART**, please download the folder and extract its contents.
+<p align='justify'> To start using <b>SMART</b>, please download the folder and extract its contents. </p>
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; [![Mac](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z) 
 
@@ -35,21 +33,21 @@ To start using **SMART**, please download the folder and extract its contents.
 Documentation
 =============
 
-To learn how to run **SMART** and for a helpful user guide, please read the [manual](https://github.com/ch-var/SMART/blob/main/assets/SMART_User_Manual.pdf).
+<p align='justify'> To learn how to run <b>SMART</b> and for a helpful user guide, please read the <a href="https://github.com/ch-var/SMART/blob/main/assets/SMART_User_Manual.pdf">manual</a>. </p>
 
 <br> 
 
 Having issues?
 =============
 
-If you are experiencing any problems using **SMART**, do not hesitate to contact us at varnava.haris@gmail.com or a.efstathiou@euc.ac.cy. 
+<p align='justify'> If you are experiencing any problems using <b>SMART</b>, do not hesitate to contact us at <a href="mailto:varnava.haris@gmail.com">varnava.haris@gmail.com</a> or <a href="mailto:a.efstathiou@euc.ac.cy">a.efstathiou@euc.ac.cy</a>. </p>
 
 <br>
 
 Attribution
 =============
 
-If you find this tool useful in your research, please cite [Varnava & Efstathiou (2024)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585). The BibTeX entry for the paper is:
+<p align='justify'> If you find this tool useful in your research, please cite <a href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585">Varnava & Efstathiou (2024)</a>. The BibTeX entry for the paper is: </p>
 
     @article{2024MNRAS.tmp.1161V,
        author = {{Varnava}, C. and {Efstathiou}, A.},
@@ -67,13 +65,12 @@ If you find this tool useful in your research, please cite [Varnava & Efstathiou
 Presentation
 =============
 
-To learn more about **SMART**, please read a useful [presentation](https://github.com/ch-var/SMART/blob/main/assets/Presentation_GitHub.pdf).
+<p align='justify'> To learn more about <b>SMART</b>, please read a useful <a href="https://github.com/ch-var/SMART/blob/main/assets/Presentation_GitHub.pdf">presentation</a>. </p>
 
-<br>
 
 License
 =======
 
-Copyright 2024 Charalambia Varnava and contributors
+<p align='justify'> Copyright 2024 Charalambia Varnava and contributors </p>
 
-**SMART** is a free tool made available under the terms of the MIT License. For details see the [LICENSE file](https://github.com/ch-var/SMART/blob/main/LICENSE).
+<p align='justify'> <b>SMART</b>b> is a free tool made available under the terms of the MIT License. For details see the <a href="[https://github.com/ch-var/SMART/blob/main/assets/Presentation_GitHub.pdf](https://github.com/ch-var/SMART/blob/main/LICENSE)">LICENSE file</a>. </p>
