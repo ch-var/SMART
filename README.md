@@ -59,6 +59,16 @@ Attribution
        eprint = {2405.18130},
           doi = {10.1093/mnras/stae1141}
     }
+
+<p align='justify'> The BibTeX entry for the code is: </p>
+
+    @software{2024ascl.soft06003V,
+       author = {{Varnava}, Charalambia and {Efstathiou}, Andreas},
+        title = "{SMART: Spectral energy distribution (SED) fitter}",
+      howpublished = {Astrophysics Source Code Library, record ascl:2406.003},
+         year = 2024,
+       eid = {ascl:2406.003},
+    }
    
 <br>
 
