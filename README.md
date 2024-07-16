@@ -47,7 +47,9 @@ Having issues?
 Attribution
 =============
 
-<p align='justify'> If you find this tool useful in your research, please cite <a href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585">Varnava & Efstathiou (2024)</a>. The BibTeX entry for the paper is: </p>
+<p align='justify'> If you find this tool useful in your research, please cite <a href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585">Varnava & Efstathiou (2024a)</a> and <a href="https://www.ascl.net/2406.003">Varnava & Efstathiou (2024b)</a>. </p>
+ 
+ The BibTeX entry for the paper is: 
 
     @article{2024MNRAS.tmp.1161V,
        author = {{Varnava}, C. and {Efstathiou}, A.},
@@ -60,7 +62,7 @@ Attribution
           doi = {10.1093/mnras/stae1141}
     }
 
-<p align='justify'> The BibTeX entry for the code is: </p>
+The BibTeX entry for the code is:
 
     @software{2024ascl.soft06003V,
        author = {{Varnava}, Charalambia and {Efstathiou}, Andreas},
