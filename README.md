@@ -4,7 +4,7 @@
 
 <p align='justify'> To start using <b>SMART</b>, please download the folder and extract its contents. </p>
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; [![Mac](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z) 
+[![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z) 
 
 <br>
 <br>
