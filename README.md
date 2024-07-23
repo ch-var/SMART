@@ -2,7 +2,7 @@
 
 <p align='justify'> <b>SMART</b> (<b>S</b>pectral energy distributions <b>M</b>arkov chain <b>A</b>nalysis with <b>R</b>adiative <b>T</b>ransfer models) is a publicly available open-source spectral energy distribution (SED) fitting code. Implementing a Bayesian Markov chain Monte Carlo (MCMC) method, <b>SMART</b> fits the ultraviolet to millimetre SEDs of galaxies exclusively with radiative transfer models that currently constitute four types of pre-computed libraries, which describe the starburst, active galactic nucleus (AGN) torus, host galaxy and polar dust components. <b>SMART</b> promises to be a useful tool for studying galaxy evolution in the <i>JWST</i> era. The code is developed in <b>PYTHON 3.10</b> (Anaconda package). </p>
 
-<p align='justify'> To start using <b>SMART</b>, please select your operating system below and then download (<img src="assets/download.jpg" width="17" height="17" />) the folder and extract its contents. </p>
+<p align='justify'> To start using <b>SMART</b>, please select your operating system below and then download (<img src="assets/download.jpg" width="18" height="18" />) the folder and extract its contents. </p>
 
 [![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) &thinsp; [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z) 
 
