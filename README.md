@@ -9,7 +9,6 @@
 <br>
 <br>
 
-
 <p align="center"> <img src="assets/SMART_MNRAS.png" /> </p>
 
 <br>
