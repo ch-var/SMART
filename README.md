@@ -15,7 +15,15 @@
 <br>
 <br>
 
-[![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART) &thinsp; [![cite](https://img.shields.io/badge/doi-10.1093/mnras/stae1141-light.svg?style=flat)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585) &thinsp; [![ascl](http://img.shields.io/badge/ascl-2406.003-lightgrey.svg?style=flat)](https://ascl.net/2406.003) &thinsp; [![manual](http://img.shields.io/badge/guidelines-manual-purple.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/assets/SMART_User_Manual.pdf) &thinsp; [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/LICENSE)
+[![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART)
+
+[![cite](https://img.shields.io/badge/doi-10.1093/mnras/stae1141-light.svg?style=flat)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585)
+
+[![ascl](http://img.shields.io/badge/ascl-2406.003-lightgrey.svg?style=flat)](https://ascl.net/2406.003)
+
+[![manual](http://img.shields.io/badge/guidelines-manual-purple.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/assets/SMART_User_Manual.pdf)
+
+[![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/LICENSE)
 
 [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) &thinsp; 
  [![Mail Badge](https://img.shields.io/badge/-a.efstathiou@euc.ac.cy-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:a.efstathiou@euc.ac.cy) 
