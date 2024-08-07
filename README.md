@@ -78,6 +78,7 @@ Presentation
 
 <p align='justify'> To learn more about <b>SMART</b>, please read a useful <a href="https://github.com/ch-var/SMART/blob/main/assets/Presentation_GitHub.pdf">presentation</a>. </p>
 
+<br>
 
 License
 =======
