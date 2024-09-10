@@ -31,23 +31,7 @@
 Requirements
 =============
 
-* astropy
-* colorcet
-* csv
-* emcee
-* getdis
-* IPython
-* math
-* matplotlib
-* mpl_toolkits
-* multiprocessing
-* numpy
-* operator
-* os
-* pylab
-* scipy
-* sys
-* time
+<p align='justify'> For all the modules that need to be installed to run <b>SMART</b>, please read the <a href="https://github.com/ch-var/SMART/blob/main/assets/SMART_requirements.pdf">requirements</a>. </p>
 
 <br>
 
