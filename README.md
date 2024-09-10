@@ -31,7 +31,23 @@
 Requirements
 =============
 
-* astropy * colorcet * csv * emcee * numpy * matplotlib * os * sys * scipy * pylab * math * multiprocessing * getdis * IPython * operator * mpl_toolkits * time
+* astropy
+* colorcet
+* csv
+* emcee
+* getdis
+* IPython
+* math
+* matplotlib
+* mpl_toolkits
+* multiprocessing
+* numpy
+* operator
+* os
+* pylab
+* scipy
+* sys
+* time
 
 <br>
 
