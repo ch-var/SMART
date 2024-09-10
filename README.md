@@ -24,8 +24,7 @@
 
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/LICENSE)
 
-[![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com) &thinsp; 
- [![Mail Badge](https://img.shields.io/badge/-a.efstathiou@euc.ac.cy-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:a.efstathiou@euc.ac.cy) 
+[![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com)
 
 <br>
 
