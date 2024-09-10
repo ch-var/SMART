@@ -31,7 +31,7 @@
 Requirements
 =============
 
-<p align='justify'> The packages that need to be installed to run <b>SMART</b> successfully are listed in the <a href="https://github.com/ch-var/SMART/blob/main/assets/SMART_requirements.pdf">requirements file</a>. </p>
+<p align='justify'> The packages that need to be installed to run <b>SMART</b> successfully are listed in the <a href="https://github.com/ch-var/SMART/blob/main/assets/SMART_requirements.pdf">requirements</a>. </p>
 
 <br>
 
@@ -91,4 +91,4 @@ License
 
 <p align='justify'> Copyright 2024 Charalambia Varnava and contributors </p>
 
-<p align='justify'> <b>SMART</b> is a free tool made available under the terms of the MIT License. For details see the <a href="https://github.com/ch-var/SMART/blob/main/LICENSE">LICENSE file</a>. </p>
+<p align='justify'> <b>SMART</b> is a free tool made available under the terms of the MIT <a href="https://github.com/ch-var/SMART/blob/main/LICENSE">LICENSE file</a>. </p>
