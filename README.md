@@ -31,7 +31,7 @@
 Requirements
 =============
 
-<p align='justify'> For all the modules that need to be installed to run <b>SMART</b>, please read the <a href="https://github.com/ch-var/SMART/blob/main/assets/SMART_requirements.pdf">requirements</a>. </p>
+<p align='justify'> For all the packages that need to be installed to run successfully<b>SMART</b>, please read the <a href="https://github.com/ch-var/SMART/blob/main/assets/SMART_requirements.pdf">requirements</a>. </p>
 
 <br>
 
