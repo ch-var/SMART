@@ -38,7 +38,7 @@ Documentation
 Having issues?
 =============
 
-<p align='justify'> If you are experiencing any problems using <b>SMART</b>, do not hesitate to send an email at <a href="mailto:varnava.haris@gmail.com">. </p>
+<p align='justify'> If you are experiencing any problems using <b>SMART</b>, do not hesitate to send an email at <a href="mailto:varnava.haris@gmail.com">varnava.haris@gmail.com. </p>
 
 <br>
 
