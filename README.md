@@ -4,7 +4,9 @@
 
 <p align='justify'> To start using <b>SMART</b>, please select your operating system below and then download (<img src="assets/download.png" width="18" height="18" />) the folder and extract its contents. </p>
 
-[![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z) [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z) 
+[![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z)
+[![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z)
+[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z) 
 
 <br>
 <br>
