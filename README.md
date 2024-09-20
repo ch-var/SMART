@@ -14,7 +14,6 @@
 <p align="center"> <img src="assets/SMART_MNRAS.png" /> </p>
 
 <br>
-<br>
 
 [![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART) 
 [![cite](https://img.shields.io/badge/doi-10.1093/mnras/stae1141-light.svg?style=flat)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585)
