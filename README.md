@@ -26,13 +26,6 @@
 
 <br>
 
-Requirements
-=============
-
-<p align='justify'> The packages that need to be installed to run <b>SMART</b> successfully are listed in the <a href="https://github.com/ch-var/SMART/blob/main/assets/SMART_requirements.pdf">requirements</a>. </p>
-
-<br>
-
 Documentation
 =============
 
