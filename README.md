@@ -4,9 +4,11 @@
 
 <p align='justify'> To start using <b>SMART</b>, please select your operating system below and then download (<img src="assets/download.png" width="18" height="18" />) the folder and extract its contents. </p>
 
-[<img src="https://github.com/ch-var/SMART/blob/main/assets/windows.png" width="5%" height="5%">]([https://github.com/ch-var/SMART](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z))
-[<img src="https://github.com/ch-var/SMART/blob/main/assets/linux.png" width="5%" height="5%">]([https://github.com/ch-var/SMART](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z))
-[<img src="https://github.com/ch-var/SMART/blob/main/assets/mac.png" width="5%" height="5%">]([https://github.com/ch-var/SMART]([https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z)))
+[<img src="https://github.com/ch-var/SMART/blob/main/assets/windows.png" width="8%" height="8%">]([https://github.com/ch-var/SMART](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z))
+&thinsp; &thinsp; &thinsp; &thinsp;
+[<img src="https://github.com/ch-var/SMART/blob/main/assets/linux.png" width="4.5%" height="4.5%">]([https://github.com/ch-var/SMART](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z))
+&thinsp; &thinsp; &thinsp; &thinsp;
+[<img src="https://github.com/ch-var/SMART/blob/main/assets/mac.png" width="4%" height="4%">]([https://github.com/ch-var/SMART]([https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z)))
 
 <br>
 <br>
