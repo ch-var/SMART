@@ -6,7 +6,7 @@
 
 [<img src="https://github.com/ch-var/SMART/blob/main/assets/windows.png" width="80" height="60">](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z)
 &thinsp; &thinsp; &thinsp; &thinsp;
-[<img src="https://github.com/ch-var/SMART/blob/main/assets/linux.png" width="45" height="60">](https://github.com/ch-var/SMART](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z)
+[<img src="https://github.com/ch-var/SMART/blob/main/assets/linux.png" width="45" height="60">](https://github.com/ch-var/SMART/blob/main/SMART_v1.0.7z)
 &thinsp; &thinsp; &thinsp; &thinsp;
 [<img src="https://github.com/ch-var/SMART/blob/main/assets/mac.png" width="40" height="60">](https://github.com/ch-var/SMART/blob/main/SMART_v1.0_mac.7z)
 
