@@ -17,7 +17,7 @@
 
 <br>
 
-[![SMART](https://img.shields.io/badge/GitHub-SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART) 
+[![SMART](https://img.shields.io/badge/GitHub-ch--var/SMART-blue.svg?label=GitHub&logo=GitHub)](https://github.com/ch-var/SMART) 
 [![cite](https://img.shields.io/badge/doi-10.1093/mnras/stae1141-light.svg?style=flat)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585)
 [![ascl](http://img.shields.io/badge/ascl-2406.003-lightgrey.svg?style=flat)](https://ascl.net/2406.003)
 [![manual](http://img.shields.io/badge/guidelines-manual-purple.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/assets/SMART_User_Manual.pdf)
