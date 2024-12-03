@@ -22,6 +22,7 @@
 [![ascl](http://img.shields.io/badge/ascl-2406.003-lightgrey.svg?style=flat)](https://ascl.net/2406.003)
 [![manual](http://img.shields.io/badge/guidelines-manual-purple.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/assets/SMART_User_Manual.pdf)
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/ch-var/SMART/blob/main/LICENSE)
+
 [![Mail Badge](https://img.shields.io/badge/-varnava.haris@gmail.com-white?style=flat&labelColor=white&logo=gmail&logoColor=red)](mailto:varnava.haris@gmail.com)
 
 <br>
