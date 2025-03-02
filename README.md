@@ -71,13 +71,6 @@ The BibTeX entry for the code is:
    
 <br>
 
-Presentation
-=============
-
-<p align='justify'> To learn more about <b>SMART</b>, you can read a useful <a href="https://github.com/ch-var/SMART/blob/main/assets/Presentation_GitHub.pdf">presentation</a>. </p>
-
-<br>
-
 License
 =======
 
