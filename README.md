@@ -76,4 +76,4 @@ License
 
 <p align='justify'> Copyright (c) 2024 Charalambia Varnava </p>
 
-<p align='justify'> <b>SMART</b> is a free tool made available under the terms of the <a href="https://github.com/ch-var/SMART/blob/main/LICENSE">GPL-3.0 License</a>. For details see the `LICENSE` file.</p>
+<p align='justify'> <b>SMART</b> is a free tool made available under the terms of the <a href="https://github.com/ch-var/SMART/blob/main/LICENSE">GPL-3.0 License</a>. For details see the LICENSE file.</p>
