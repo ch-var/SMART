@@ -1,6 +1,6 @@
 <p align="center"> <img src="assets/SMART_logo.png" width="300" height="300" /> </p>
 
-<p align='justify'> <b>SMART</b> (<b>S</b>pectral energy distributions <b>M</b>arkov chain <b>A</b>nalysis with <b>R</b>adiative <b>T</b>ransfer models) is a publicly available open-source spectral energy distribution (SED) fitting code. Implementing a Bayesian Markov chain Monte Carlo (MCMC) method, <b>SMART</b> fits the ultraviolet to millimetre SEDs of galaxies exclusively with radiative transfer models that currently constitute four types of pre-computed libraries, which describe the starburst, active galactic nucleus (AGN) torus, host galaxy and polar dust components. <b>SMART</b> promises to be a useful tool for studying galaxy evolution in the <i>JWST</i> era. The code is developed in <b>PYTHON 3.10</b> (Anaconda package). </p>
+<p align='justify'> <b>SMART</b> (<b>S</b>pectral energy distributions <b>M</b>arkov chain <b>A</b>nalysis with <b>R</b>adiative <b>T</b>ransfer models) is a publicly available open-source spectral energy distribution (SED) fitting code. Implementing a Bayesian Markov chain Monte Carlo method, <b>SMART</b> fits the ultraviolet to millimetre SEDs of galaxies exclusively with radiative transfer models that currently constitute four types of pre-computed libraries, which describe the starburst, active galactic nucleus torus, host galaxy and polar dust components. <b>SMART</b> promises to be a useful tool for studying galaxy evolution in the <i>JWST</i> era. The code is developed in <b>PYTHON 3.10</b> (Anaconda package). </p>
 
 <p align='justify'> To start using <b>SMART</b>, please select your operating system below and then download (<img src="assets/download.png" width="18" height="18" />) the folder and extract its contents. </p>
 
@@ -75,5 +75,4 @@ License
 =======
 
 <p align='justify'> Copyright (c) 2024 Charalambia Varnava </p>
-
 <p align='justify'> <b>SMART</b> is a free tool made available under the terms of the <a href="https://github.com/ch-var/SMART/blob/main/LICENSE">GPL-3.0 License</a>. For details, see the LICENSE file.</p>
