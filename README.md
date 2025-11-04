@@ -13,7 +13,11 @@
 <br>
 <br>
 
-<p align="center"> <img src="assets/SMART_MNRAS.png" /> </p>
+<p align="center">
+  <a href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585" target="_blank">
+    <img src="assets/SMART_MNRAS.png" alt="SMART MNRAS" />
+  </a>
+</p>
 
 <br>
 
