@@ -50,7 +50,7 @@ Attribution
 
 <p align='justify'> If you find this tool useful in your research, please cite <a href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585">Varnava & Efstathiou (2024)</a>. </p>
  
- The BibTeX entry for the paper is: 
+ The BibTeX entry for the article is: 
 
     @article{2024MNRAS.tmp.1161V,
        author = {{Varnava}, C. and {Efstathiou}, A.},
