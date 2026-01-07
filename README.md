@@ -48,7 +48,7 @@ Having issues?
 Attribution
 =============
 
-<p align='justify'> If you find this tool useful in your research, please cite <a href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585">Varnava & Efstathiou (2024a)</a> and <a href="https://www.ascl.net/2406.003">Varnava & Efstathiou (2024b)</a>. </p>
+<p align='justify'> If you find this tool useful in your research, please cite <a href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1141/7660585">Varnava & Efstathiou (2024)</a>. </p>
  
  The BibTeX entry for the paper is: 
 
@@ -61,16 +61,6 @@ Attribution
         pages = {2304–2329},
        eprint = {2405.18130},
           doi = {10.1093/mnras/stae1141}
-    }
-
-The BibTeX entry for the code is:
-
-    @software{2024ascl.soft06003V,
-       author = {{Varnava}, Charalambia and {Efstathiou}, Andreas},
-        title = "{SMART: Spectral energy distribution (SED) fitter}",
-      howpublished = {Astrophysics Source Code Library, record ascl:2406.003},
-         year = 2024,
-       eid = {ascl:2406.003},
     }
    
 <br>
